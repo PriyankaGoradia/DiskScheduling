@@ -1,2 +1,0 @@
-# DiskScheduling
-Disk Scheduling Algorithms
